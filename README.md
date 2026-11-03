@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Analytics Projects
 
 <p align="center">
@@ -316,3 +317,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 <p align="center">
   Built with ❤️ and a lot of ☕
 </p>
+=======
+# data-analytics-portfolio
+Data Analytics and Machine Learning Projects using Python and R
+>>>>>>> a6ecfc23dac94bac2f252fa0b792498f20e3c9d3
